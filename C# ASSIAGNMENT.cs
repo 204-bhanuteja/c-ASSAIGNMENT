@@ -51,7 +51,9 @@ namespace ConsoleAppDemo
     }
 }
 
- finding vowels
+
+
+finding vowels
 
 
 using System;
@@ -93,6 +95,8 @@ namespace ConsoleAppDemo
     }
 }
 
+
+
 smaller number
 
 using System;
@@ -125,6 +129,8 @@ namespace ConsoleAppDemo
     }
 }
 
+
+
 new string
 
 using System;
@@ -150,6 +156,9 @@ namespace ConsoleAppDemo
         }
     }
 }
+
+
+
 
 multiplication of three numbers
 
@@ -177,6 +186,8 @@ namespace ConsoleAppDemo
         }
     }
 }
+
+
 
 date
 
